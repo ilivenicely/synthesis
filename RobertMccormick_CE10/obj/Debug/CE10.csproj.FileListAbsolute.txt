@@ -1,0 +1,25 @@
+D:\Project\OutSource\winform tutorial\Source\CE10\bin\Debug\CE10.exe.config
+D:\Project\OutSource\winform tutorial\Source\CE10\bin\Debug\CE10.exe
+D:\Project\OutSource\winform tutorial\Source\CE10\bin\Debug\CE10.pdb
+D:\Project\OutSource\winform tutorial\Source\CE10\bin\Debug\MySql.Data.dll
+D:\Project\OutSource\winform tutorial\Source\CE10\obj\Debug\CE10.csprojResolveAssemblyReference.cache
+D:\Project\OutSource\winform tutorial\Source\CE10\obj\Debug\CE10.Form1.resources
+D:\Project\OutSource\winform tutorial\Source\CE10\obj\Debug\CE10.ItemForm.resources
+D:\Project\OutSource\winform tutorial\Source\CE10\obj\Debug\CE10.Properties.Resources.resources
+D:\Project\OutSource\winform tutorial\Source\CE10\obj\Debug\CE10.csproj.GenerateResource.Cache
+D:\Project\OutSource\winform tutorial\Source\CE10\obj\Debug\CE10.exe
+D:\Project\OutSource\winform tutorial\Source\CE10\obj\Debug\CE10.pdb
+\\vmware-host\Shared Folders\Desktop\Source\CE10\bin\Debug\CE10.exe.config
+\\vmware-host\Shared Folders\Desktop\Source\CE10\obj\Debug\CE10.exe
+\\vmware-host\Shared Folders\Desktop\Source\CE10\obj\Debug\CE10.pdb
+\\vmware-host\Shared Folders\Desktop\Source\CE10\bin\Debug\CE10.exe
+\\vmware-host\Shared Folders\Desktop\Source\CE10\bin\Debug\CE10.pdb
+\\vmware-host\Shared Folders\Desktop\Source\CE10\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\Desktop\Source\CE10\obj\Debug\CE10.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Source\CE10\obj\Debug\CE10.Form1.resources
+\\vmware-host\Shared Folders\Desktop\Source\CE10\obj\Debug\CE10.ItemForm.resources
+\\vmware-host\Shared Folders\Desktop\Source\CE10\obj\Debug\CE10.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Source\CE10\obj\Debug\CE10.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\New folder\CE10\bin\Debug\CE10.exe.config
+\\vmware-host\Shared Folders\Desktop\New folder\CE10\obj\Debug\CE10.exe
+\\vmware-host\Shared Folders\Desktop\New folder\CE10\obj\Debug\CE10.pdb
